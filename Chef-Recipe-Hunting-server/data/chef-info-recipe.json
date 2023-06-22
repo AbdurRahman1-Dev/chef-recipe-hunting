@@ -1,0 +1,291 @@
+[
+  {
+    "id": 1,
+    "chefPicture": "https://images.pexels.com/photos/8629122/pexels-photo-8629122.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chefName": "Emily Johnson",
+    "yearsOfExperience": 10,
+    "likes": 200,
+     "shortBio": "Emily Johnson is a world-renowned chef who has won numerous awards for her culinary creations. Her passion for cooking started at a young age, and she has been perfecting her craft ever since.",
+    "recipeInfo": [
+      {
+        "recipeName": "Classic Lasagna",
+        "ingredients": ["ground beef", "lasagna noodles", "tomato sauce", "ricotta cheese", "mozzarella cheese"],
+        "cookingMethod": "oven-baked",
+        "rating": 4.5,
+        "id": 1,
+        "recipeImage": "https://images.pexels.com/photos/2418486/pexels-photo-2418486.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "recipeName": "Roasted Chicken",
+        "ingredients": ["whole chicken", "lemon", "garlic", "thyme", "butter"],
+        "cookingMethod": "oven-roasted",
+        "rating": 4.2,
+        "id": 2,
+        "recipeImage": "https://images.pexels.com/photos/5718025/pexels-photo-5718025.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      },
+      {
+        "recipeName": "New York Cheesecake",
+        "ingredients": ["cream cheese", "sugar", "eggs", "sour cream", "vanilla extract"],
+        "cookingMethod": "baked",
+        "rating": 4.8,
+        "id": 3,
+        "recipeImage": "https://images.pexels.com/photos/4051668/pexels-photo-4051668.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://images.pexels.com/photos/7488995/pexels-photo-7488995.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "chefName": "James Davis",
+    "yearsOfExperience": 5,
+    "likes": 100,
+    "shortBio": "James Davis is a rising star in the culinary world. His unique style of cooking blends traditional and modern techniques to create dishes that are both delicious and visually stunning.",
+    "recipeInfo": [
+      {
+        "recipeName": "BBQ Ribs",
+        "ingredients": ["pork ribs", "BBQ sauce", "brown sugar", "paprika", "garlic powder"],
+        "cookingMethod": "smoked",
+        "rating": 4.3,
+        "id": 1,
+        "recipeImage": "https://images.pexels.com/photos/410648/pexels-photo-410648.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "recipeName": "Mac and Cheese",
+        "ingredients": ["elbow macaroni", "cheddar cheese", "butter", "flour", "milk"],
+        "cookingMethod": "baked",
+        "rating": 4.0,
+        "id": 2,
+        "recipeImage": "https://images.pexels.com/photos/9650087/pexels-photo-9650087.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "recipeName": "Grilled Cheese Sandwich",
+        "ingredients": ["bread", "cheddar cheese", "butter", "mayonnaise", "dijon mustard"],
+        "cookingMethod": "grilled",
+        "rating": 3.8,
+        "id": 3,
+        "recipeImage": "https://images.pexels.com/photos/929137/pexels-photo-929137.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "recipeName": "Key Lime Pie",
+        "ingredients": ["graham cracker crumbs", "sweetened condensed milk", "lime juice", "egg yolks", "whipped cream"],
+        "cookingMethod": "chilled",
+        "rating": 4.5,
+        "id": 4,
+        "recipeImage": "https://images.pexels.com/photos/1375902/pexels-photo-1375902.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://images.pexels.com/photos/4253298/pexels-photo-4253298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "chefName": "Isabella Garcia",
+    "yearsOfExperience": 8,
+    "likes": 150,
+    "shortBio": "Isabella Garcia is a classically trained chef who specializes in French cuisine. Her attention to detail and dedication to quality has earned her a loyal following among food enthusiasts.",
+    "recipeInfo": [
+      {
+        "recipeName": "Fried Chicken",
+        "ingredients": ["chicken drumsticks", "flour", "buttermilk", "paprika", "garlic powder"],
+        "cookingMethod": "deep-fried",
+        "rating": 4.2,
+        "id": 1,
+        "recipeImage": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "recipeName": "Grilled Cheese Sandwich",
+        "ingredients": ["bread", "cheddar cheese", "butter", "mayonnaise", "dijon mustard"],
+        "cookingMethod": "grilled",
+        "rating": 3.8,
+        "id": 2,
+        "recipeImage": "https://images.pexels.com/photos/1352270/pexels-photo-1352270.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "recipeName": "Apple Pie",
+        "ingredients": ["granny smith apples", "sugar", "cinnamon", "nutmeg", "pie crust"],
+        "cookingMethod": "baked",
+        "rating": 4.6,
+        "id": 3,
+        "recipeImage": "https://images.pexels.com/photos/1309593/pexels-photo-1309593.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://images.pexels.com/photos/4253302/pexels-photo-4253302.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "chefName": "Michael Brown",
+    "yearsOfExperience": 12,
+    "likes": 250,
+    "shortBio": "Michael Brown is a master of fusion cuisine, blending flavors and techniques from different parts of the world to create truly unique dishes. He has been featured in numerous publications and TV shows.",
+    "recipeInfo": [
+      {
+        "recipeName": "Steak Fajitas",
+        "ingredients": ["flank steak", "bell peppers", "onion", "lime juice", "fajita seasoning"],
+        "cookingMethod": "grilled",
+        "rating": 4.4,
+        "id": 1,
+        "recipeImage": "https://images.pexels.com/photos/769289/pexels-photo-769289.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "recipeName": "Baked Salmon",
+        "ingredients": ["salmon fillets", "lemon", "dill", "butter", "garlic"],
+        "cookingMethod": "oven-baked",
+        "rating": 4.7,
+        "id": 2,
+        "recipeImage": "https://images.pexels.com/photos/1482803/pexels-photo-1482803.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "recipeName": "Banana Bread",
+        "ingredients": ["ripe bananas", "flour", "sugar", "butter", "eggs"],
+        "cookingMethod": "baked",
+        "rating": 4.3,
+        "id": 3,
+        "recipeImage": "https://images.pexels.com/photos/3535383/pexels-photo-3535383.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://images.pexels.com/photos/6050327/pexels-photo-6050327.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "chefName": "Samantha Lee",
+    "yearsOfExperience": 3,
+    "likes": 50,
+    "shortBio": "Samantha Lee is a self-taught chef who has made a name for herself by creating dishes that are both healthy and delicious. Her passion for cooking began as a way to improve her own health, and she has since shared her knowledge with others.",
+    "recipeInfo": [
+      {
+        "recipeName": "Teriyaki Chicken",
+        "ingredients": ["chicken thighs", "soy sauce", "brown sugar", "garlic", "ginger"],
+        "cookingMethod": "grilled",
+        "rating": 3.9,
+        "id": 1,
+        "recipeImage": "https://images.pexels.com/photos/1309593/pexels-photo-1309593.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "recipeName": "Pesto Pasta",
+        "ingredients": ["pasta", "basil pesto", "cherry tomatoes", "parmesan cheese", "olive oil"],
+        "cookingMethod": "boiled",
+        "rating": 4.1,
+        "id": 2,
+        "recipeImage": "https://images.pexels.com/photos/2338407/pexels-photo-2338407.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "recipeName": "Beef Stroganoff",
+        "ingredients": ["beef sirloin", "mushrooms", "sour cream", "beef broth", "egg noodles"],
+        "cookingMethod": "stovetop",
+        "rating": 4.2,
+        "id": 3,
+        "recipeImage": "https://images.pexels.com/photos/1309593/pexels-photo-1309593.jpeg?auto=compress&cs=tinysrgb&w=600"
+        
+      },
+      {
+        "recipeName": "Blueberry Muffins",
+        "ingredients": ["flour", "sugar", "baking powder", "blueberries", "milk"],
+        "cookingMethod": "baked",
+        "rating": 4.5,
+        "id": 4,
+        "recipeImage": "https://images.pexels.com/photos/3535383/pexels-photo-3535383.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chefPicture": "https://images.pexels.com/photos/6050329/pexels-photo-6050329.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "chefName": "William Martinez",
+    "yearsOfExperience": 6,
+    "likes": 120,
+    "shortBio": "William Martinez is a young chef who is quickly making a name for himself in the culinary world. His innovative approach to cooking has earned him a loyal following among foodies.",
+    "recipeInfo": [
+      {
+        "recipeName": "Chili Con Carne",
+        "ingredients": ["ground beef", "kidney beans", "tomato sauce", "chili powder", "cumin"],
+        "cookingMethod": "stovetop",
+        "rating": 4.0,
+        "id": 1,
+        "recipeImage": "https://images.pexels.com/photos/8764748/pexels-photo-8764748.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "recipeName": "Beef Stroganoff",
+        "ingredients": ["beef sirloin", "mushrooms", "sour cream", "beef broth", "egg noodles"],
+        "cookingMethod": "stovetop",
+        "rating": 4.2,
+        "id": 2,
+        "recipeImage": "https://images.pexels.com/photos/2098110/pexels-photo-2098110.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "recipeName": "Chocolate Cake",
+        "ingredients": ["flour", "sugar", "cocoa powder", "eggs", "butter"],
+        "cookingMethod": "baked",
+        "rating": 4.6,
+        "id": 3,
+        "recipeImage": "https://images.pexels.com/photos/8112966/pexels-photo-8112966.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "chefPicture":"https://images.pexels.com/photos/4252136/pexels-photo-4252136.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "chefName": "Michael Brown",
+    "yearsOfExperience": 8,
+    "likes": 180,
+    "shortBio": "Michael Brown is a seasoned chef who has worked in some of the world's most prestigious kitchens. He is known for his innovative approach to classic dishes and his dedication to using only the freshest, highest-quality ingredients.",
+    "recipeInfo": [
+      {
+        "recipeName": "Pad Thai",
+        "ingredients": ["rice noodles", "shrimp", "tofu", "bean sprouts", "tamarind paste"],
+        "cookingMethod": "stir-fry",
+        "rating": 4.3,
+        "id": 1,
+        "recipeImage": "https://images.pexels.com/photos/3535383/pexels-photo-3535383.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "recipeName": "Korean BBQ Beef",
+        "ingredients": ["beef sirloin", "soy sauce", "brown sugar", "sesame oil", "garlic"],
+        "cookingMethod": "grilled",
+        "rating": 4.5,
+        "id": 2,
+        "recipeImage": "https://images.pexels.com/photos/7613552/pexels-photo-7613552.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "recipeName": "Kimchi Fried Rice",
+        "ingredients": ["cooked rice", "kimchi", "bacon", "eggs", "soy sauce"],
+        "cookingMethod": "stir-fry",
+        "rating": 4.1,
+        "id": 3,
+        "recipeImage": "https://images.pexels.com/photos/7613552/pexels-photo-7613552.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "chefPicture": "https://images.pexels.com/photos/6050334/pexels-photo-6050334.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "chefName": "Gabriel Hernandez",
+    "yearsOfExperience": 5,
+    "likes": 90,
+    "shortBio": "Gabriel Hernandez is a Korean-American chef who blends traditional Korean flavors and techniques with modern cooking styles.",
+    "recipeInfo": [
+      {
+        "recipeName": "Carnitas Tacos",
+        "ingredients": ["pork shoulder", "onion", "garlic", "lime juice", "corn tortillas"],
+        "cookingMethod": "slow-cooked",
+        "rating": 4.4,
+        "id": 1,
+        "recipeImage": "https://images.pexels.com/photos/7613556/pexels-photo-7613556.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "recipeName": "Enchiladas Verdes",
+        "ingredients": ["chicken breasts", "tomatillos", "jalapeno", "corn tortillas", "queso fresco"],
+        "cookingMethod": "baked",
+        "rating": 4.2,
+        "id": 2,
+        "recipeImage": "https://images.pexels.com/photos/8477074/pexels-photo-8477074.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "recipeName": "Churros",
+        "ingredients": ["flour", "sugar", "baking powder", "cinnamon", "water"],
+        "cookingMethod": "deep-fried",
+        "rating": 4.6,
+        "id": 3,
+        "recipeImage": "https://images.pexels.com/photos/8477355/pexels-photo-8477355.jpeg?auto=compress&cs=tinysrgb&w=600"
+      }
+    ]
+  }
+]

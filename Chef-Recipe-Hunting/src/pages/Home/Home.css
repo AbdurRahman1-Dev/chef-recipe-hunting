@@ -1,0 +1,31 @@
+
+.banner{
+  background-image: url('../../assets/images/banner.png');
+  width: 100%;
+  height: 105vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 0;
+  isolation: isolate;
+  background-attachment: fixed;
+}
+.banner::after{
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.665);
+  z-index: -1;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+  .banner{
+    height: 600px;
+  }
+}
